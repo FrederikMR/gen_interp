@@ -1,2 +1,2 @@
-# gen_interp
+# Interpolation in Generative Models
 Interpolation in Generative Models
